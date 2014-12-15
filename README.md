@@ -1,4 +1,4 @@
-InstallPackageCtrolWithProxy
+sublime-package-control-with-proxy
 ============================
 
 Download and install Sublime Text Package Control with proxy.
